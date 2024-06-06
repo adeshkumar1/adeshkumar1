@@ -1,6 +1,6 @@
 ![Header](./Github-Profile-Header.png)
 
-- 🔭 I’m currently working on **Geni**, an AI and LLM based startup backed by **Google** transforming the education space
+- 🔭 I’m currently working at **Geni**, an AI and LLM based startup backed by **Google** transforming the education space
 
 - 📫 How to reach me **adeshk153@gmail.com**
 
