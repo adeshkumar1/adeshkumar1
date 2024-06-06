@@ -1,8 +1,5 @@
 ![Header](./Github-Profile-Header.png)
 
-<h1 align="center">Hi 👋, I'm Adesh</h1>
-<h3 align="center">A student studying Computer Science @ UIUC</h3>
-
 - 🔭 I’m currently working on **Geni**, an AI and LLM based startup transforming the education space
 
 - 📫 How to reach me **adeshk153@gmail.com**
