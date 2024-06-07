@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at **Geni**, an AI and LLM based startup backed by **Google** transforming the education space
 
-- 📫 How to reach me **adeshk153@gmail.com**
+- 📫 How to reach me: **adeshk153@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
